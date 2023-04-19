@@ -1,0 +1,18 @@
+github.com
+server where we upload our projects and practises and assignement and assesments.
+
+what is xampp ?
+  xampp is a server tools or xampp server where we run our php code.
+ 
+x =>cross plateform(support on all OS)
+a =>apache (apache is a server) 
+m =>mysql (mysql is an database)
+p =>perl (proceedural based language)
+p =>php (php:hypertext preprocessor is an server side secripting language)
+
+wamp
+w=>windows only 
+Lamp 
+=>linux/unix only 
+
+step 1: 
