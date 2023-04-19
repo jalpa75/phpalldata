@@ -15,4 +15,23 @@ w=>windows only
 Lamp 
 =>linux/unix only 
 
-step 1: 
+step 1: signup in github
+
+step 2: login in github
+
+step 3: create repository on github
+
+
+step 4: download git
+
+ https://git-scm.com/download/win
+
+step 5: upload local PC data on github
+
+    cmd1 : git init
+    cmd2 : git add .
+    cmd1 : git commit -m '19-04-2023 data uploaded successfully'
+    cmd1 : git remote add origin https://github.com/jalpa75/phpalldata.git
+    cmd1 : git push -u orign master
+
+ 
